@@ -18,8 +18,3 @@ Then add the control to your map object
 	
 By default, this will be added to the upper right of your map. If you have a lot of pins, the process of clustering and declustering may take several seconds.
 
----
-
-## Example
-
-You can view the an example of this plugin, based on MarkerCluster's "Real World Example", [here](http://awegnergithub.github.io/L.Control.Cluster/examples/example.html)
